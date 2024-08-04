@@ -12,10 +12,10 @@ export const Header = () => {
       <header className={"header center " + themename}>
         <h3>
           <a href="#home" className="link">
-            <span>
+            {/* <span>
               <img src={Image} alt="logo" />
-            </span>
-            zam
+            </span> */}
+            Azam
           </a>
         </h3>
         <Navbar />
